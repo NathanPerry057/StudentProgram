@@ -29,11 +29,19 @@ public class student {
         return email;
     }
     public void setCourse() {
-        System.out.println("Enter student course");
+        System.out.println("Enter student course:");
         course = s.next();
     }
     public String getCourse() {
         return course;
     }
 
+    public void studentDetails() {
+        setName();
+        System.out.println("Name:" + this.getName());
+        setEmail();
+        System.out.println("Email:" + this.getEmail());
+        setCourse();
+        System.out.println("Course: " + this.getCourse());
+    }
 }
