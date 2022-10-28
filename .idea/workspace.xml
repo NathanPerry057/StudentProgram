@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2c9d5e9-ad95-4732-956f-21280a5e9fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/student.java" afterDir="false" />
+    <list default="true" id="c2c9d5e9-ad95-4732-956f-21280a5e9fcb" name="Changes" comment="Added a constructor and variables for student info">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666917115285</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added a constructor and variables for student info">
+      <created>1666918964598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666918964598</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added a constructor and variables for student info" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a constructor and variables for student info" />
   </component>
 </project>
