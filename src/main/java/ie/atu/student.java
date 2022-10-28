@@ -11,6 +11,8 @@ public class student {
 
     public static void main(String [] args) {
 
+        student results = new student();
+        results.studentDetails();
 
     }
 
@@ -38,10 +40,40 @@ public class student {
 
     public void studentDetails() {
         setName();
-        System.out.println("Name:" + this.getName());
         setEmail();
-        System.out.println("Email:" + this.getEmail());
         setCourse();
+
+
+        System.out.println("Student 1");
+
+        System.out.println("Name:" + this.getName());
+
+        System.out.println("Email:" + this.getEmail());
+
+        System.out.println("Course: " + this.getCourse());
+
+        setName();
+        setEmail();
+        setCourse();
+
+        System.out.println("Student 2");
+
+        System.out.println("Name:" + this.getName());
+
+        System.out.println("Email:" + this.getEmail());
+
+        System.out.println("Course: " + this.getCourse());
+
+        setName();
+        setEmail();
+        setCourse();
+
+        System.out.println("Student 3");
+
+        System.out.println("Name:" + this.getName());
+
+        System.out.println("Email:" + this.getEmail());
+
         System.out.println("Course: " + this.getCourse());
     }
 }

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2c9d5e9-ad95-4732-956f-21280a5e9fcb" name="Changes" comment="Added getters and setters for the student information">
+    <list default="true" id="c2c9d5e9-ad95-4732-956f-21280a5e9fcb" name="Changes" comment="Add a studentdetails method that takes the setters and returns the info from the getters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/student.java" afterDir="false" />
     </list>
@@ -72,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666919599388</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add a studentdetails method that takes the setters and returns the info from the getters">
+      <created>1666920384947</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666920384947</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +97,7 @@
     <MESSAGE value="Added a constructor and variables for student info" />
     <MESSAGE value="Imported and coded scanner" />
     <MESSAGE value="Added getters and setters for the student information" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added getters and setters for the student information" />
+    <MESSAGE value="Add a studentdetails method that takes the setters and returns the info from the getters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add a studentdetails method that takes the setters and returns the info from the getters" />
   </component>
 </project>
