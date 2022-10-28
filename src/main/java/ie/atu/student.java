@@ -1,3 +1,8 @@
+/*
+Nathan Perry
+27/10/22
+Desc - Student app that uses getters, setters and constructors to read and store the user inputs
+*/
 package ie.atu;
 
 import java.util.Scanner;
